@@ -2,7 +2,6 @@
 
 
 
- <a href="_blank"> <img src="https://user-images.githubusercontent.com/97982058/230980399-5a681f5c-335a-4c7d-ab21-0ad288ebfaa7.gif" height="192px"/></a> 
 
 **About me:**
 - 💻 Full-stack developer with a strong front-end orientation 

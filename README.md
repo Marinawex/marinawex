@@ -1,6 +1,6 @@
 # Hello, I'm Marina 👋  
 
-## About Me
+
 I'm a full-stack developer with a strong emphasis on front-end development. 
 
 

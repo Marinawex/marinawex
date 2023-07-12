@@ -29,7 +29,7 @@ I'm a full-stack developer with a strong emphasis on front-end development.
 
 
 
-**Technologies I've Learned (But Don't Use At This Moment):**
+**Technologies I've Learned:**
 
  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)

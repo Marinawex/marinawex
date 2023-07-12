@@ -9,6 +9,8 @@ I'm a full-stack developer with a strong emphasis on front-end development.
 * Happy to answer any questions you may have.
 * When I'm not coding, I enjoy photography 📸 and running 🏃‍♀️.
 
+  
+
 **Programming languages:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
